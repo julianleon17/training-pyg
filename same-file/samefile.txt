@@ -5,3 +5,5 @@ Soluciono el conflicto
 
 Nuevo conflicto
 Conflicto julian
+
+Rebase
