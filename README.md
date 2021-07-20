@@ -1,1 +1,1 @@
-Hello, fried!
+Hello, friend!
